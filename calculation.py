@@ -1,9 +1,9 @@
 # Store input numbers
-num1 = input('Enter first number: ')
-num2 = input('Enter second number: ')
+A = input('Berikan angka pertama: ')
+B = input('Berikan angka kedua: ')
 
 # Add two numbers
-sum = float(num1) + float(num2)
+sum = float(A) + float(B)
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+print('The sum of {0} and {1} is {2}'.format(A, B, sum))
